@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=yonglan-whl&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yonglan-whl&count_private=true&show_icons=true&theme=prussian" />
+
+
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yonglan-whl&layout=compact&theme=prussian" />
 
 
