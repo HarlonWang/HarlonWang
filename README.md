@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://hits.seeyoufarm.com">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyonglan-whl%2Fhit-counter&count_bg=%23233E70&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </a>
