@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </a>
 
 - 🔭 I’m currently working on Low-Code Platform.
+- 👯 I'm looking for interested friends to join us.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarlonWang&show_icons=true&theme=prussian&hide=contribs&count_private=true" alt="HarlonWang's github stats" />
