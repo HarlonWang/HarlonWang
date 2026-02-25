@@ -7,4 +7,5 @@
 
 > Understand GitHub Trending projects quickly with AI.（用 AI 快速读懂 GitHub Trending 项目）
 
-<img width="320" height="640" alt="android_screenshot" src="https://github.com/user-attachments/assets/b00cc3c5-683e-45b9-8b04-5f0eec241266" />
+<img width="1920" height="1080" alt="TrendingAI预览图 001 2" src="https://github.com/user-attachments/assets/28a840b3-ff3e-42c1-85e8-670af1d6933e" />
+
