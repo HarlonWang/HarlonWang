@@ -7,7 +7,5 @@
 
 > Understand GitHub Trending projects quickly with AI.（用 AI 快速读懂 GitHub Trending 项目）
 
-<img width="1920" height="1080" alt="TrendingAI预览图 001 2" src="https://github.com/user-attachments/assets/28a840b3-ff3e-42c1-85e8-670af1d6933e" />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarlonWang&show_icons=true&theme=prussian&hide=contribs&count_private=true" alt="HarlonWang's github stats" />
