@@ -1,6 +1,6 @@
 ### Products
 
-- [**Trending AI**](https://trendingai.cn) — 全球技术热点，AI 精选速递。（Global tech trends, fast-picked by AI） · [Android](https://github.com/HarlonWang/TrendingAI/releases/latest)
+- [**Trending AI**](https://trendingai.cn) — 全球技术热点，AI 精选速递。（Global tech trends, fast-picked by AI） · [![release](https://img.shields.io/github/v/release/HarlonWang/TrendingAI?logo=android&label=&color=3DDC84)](https://github.com/HarlonWang/TrendingAI/releases/latest) [![downloads](https://img.shields.io/github/downloads/HarlonWang/TrendingAI/total?label=&color=3DDC84)](https://github.com/HarlonWang/TrendingAI/releases/latest)
 - [**Tono**](https://tonote.app) — 简单记，不会丢。（Simply capture, never lose.）
 
 <a href='https://play.google.com/store/apps/developer?id=HarlonWang'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width=200 height=77/></a>
