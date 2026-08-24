@@ -9,7 +9,7 @@
 
 - [**loginbase**](https://github.com/HarlonWang/loginbase) — Shared login foundation（多 App 共用的登录底座）
   - [**loginbase-kt**](https://github.com/HarlonWang/loginbase-kt) — Kotlin Multiplatform SDK（App 接入 SDK）
-- [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK for Kotlin Multiplatform（开箱即用的 KMP WebView SDK）
+- [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK（开箱即用的 WebView SDK）
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarlonWang&show_icons=true&theme=prussian&hide=contribs&count_private=true" alt="HarlonWang's github stats" />
