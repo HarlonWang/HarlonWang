@@ -7,7 +7,7 @@
 
 ### Arsenal · 军火库
 
-- [**loginbase**](https://github.com/HarlonWang/loginbase) — Shared login foundation: email OTP + social OAuth + session management（多 App 共用的登录底座：邮箱验证码 + 社交 OAuth + 会话管理）
+- [**loginbase**](https://github.com/HarlonWang/loginbase) — Shared login foundation（多 App 共用的登录底座）
   - [**loginbase-kt**](https://github.com/HarlonWang/loginbase-kt) — Kotlin Multiplatform SDK（App 接入 SDK）
 - [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK for Kotlin Multiplatform（开箱即用的 KMP WebView SDK）
 
