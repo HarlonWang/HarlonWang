@@ -7,10 +7,9 @@
 
 ### Arsenal · 军火库
 
-- [**loginbase**](https://github.com/HarlonWang/loginbase) — Shared login foundation: email OTP + social OAuth + session management（多 App 共用的登录底座：邮箱验证码 + 社交 OAuth + 会话管理）  
-  服务端 Cloudflare Workers 库（npm）· 客户端 [loginbase-kt](https://github.com/HarlonWang/loginbase-kt)（Kotlin Multiplatform，Maven Central）
-- [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK for Kotlin Multiplatform（开箱即用的 KMP WebView SDK：UI 脚手架 + JSBridge + 文件/相机能力）  
-  Android + iOS · Kotlin Multiplatform（Maven Central）
+- [**loginbase**](https://github.com/HarlonWang/loginbase) — Shared login foundation: email OTP + social OAuth + session management（多 App 共用的登录底座：邮箱验证码 + 社交 OAuth + 会话管理）
+  - [**loginbase-kt**](https://github.com/HarlonWang/loginbase-kt) — Kotlin Multiplatform SDK（App 接入 SDK）
+- [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK for Kotlin Multiplatform（开箱即用的 KMP WebView SDK）
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarlonWang&show_icons=true&theme=prussian&hide=contribs&count_private=true" alt="HarlonWang's github stats" />
