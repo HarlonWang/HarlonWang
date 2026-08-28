@@ -8,7 +8,7 @@
 ### Arsenal · 军火库
 
 - [**loginbase**](https://github.com/HarlonWang/loginbase) — Shared login foundation（多 App 共用的登录底座）· KMP 客户端 [loginbase-kt](https://github.com/HarlonWang/loginbase-kt)
-- [**eventbase**](https://github.com/HarlonWang/eventbase) — Self-hosted app analytics（自建埋点底座）· KMP 客户端 [eventbase-kt](https://github.com/HarlonWang/eventbase-kt)
+- [**eventbase**](https://github.com/HarlonWang/eventbase) — Self-hosted app analytics（自托管埋点底座）· KMP 客户端 [eventbase-kt](https://github.com/HarlonWang/eventbase-kt)
 - [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK（开箱即用的 WebView SDK）
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
