@@ -10,12 +10,8 @@
 - [**loginbase**](https://github.com/HarlonWang/loginbase) — Self-hosted login foundation（自托管登录底座）
 - [**loginbase-kt**](https://github.com/HarlonWang/loginbase-kt) — KMP client for loginbase（loginbase 的 KMP 客户端）
 
----
-
 - [**eventbase**](https://github.com/HarlonWang/eventbase) — Self-hosted app analytics（自托管埋点底座）
 - [**eventbase-kt**](https://github.com/HarlonWang/eventbase-kt) — KMP client for eventbase（eventbase 的 KMP 客户端）
-
----
 
 - [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK（开箱即用的 WebView SDK）
 
