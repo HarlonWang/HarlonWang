@@ -19,6 +19,10 @@
 
 - [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK（开箱即用的 WebView SDK）
 
+<!-- -->
+
+- [**CodeSeer**](https://github.com/HarlonWang/codeseer) — Self-hosted GitHub PR reviewer（自托管 PR 审查机器人）
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarlonWang&show_icons=true&theme=prussian&hide=contribs&count_private=true" alt="HarlonWang's github stats" />
 </a>
