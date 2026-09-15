@@ -18,7 +18,7 @@
 <!-- -->
 
 - [**kmp-webview**](https://github.com/HarlonWang/kmp-webview) — Batteries-included WebView SDK（开箱即用的 WebView SDK）
-- [**mquickjs-kmp**](https://github.com/HarlonWang/mquickjs-kmp) — KMP bindings for MicroQuickJS（MicroQuickJS 的 KMP 绑定）
+- [**quickjs-kmp**](https://github.com/HarlonWang/quickjs-kmp) — KMP bindings for QuickJS（QuickJS 的 KMP 绑定）
 - [**CodeSeer**](https://github.com/HarlonWang/codeseer) — Self-hosted GitHub PR reviewer（自托管 PR 审查机器人）
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
