@@ -1,7 +1,7 @@
 ### Products · 产品
 
 - [**Trending AI**](https://trendingai.cn) — Global tech trends, fast-picked by AI（全球技术热点，AI 精选速递）
-- [**Tono**](https://tonote.app) — Simply capture, never lose.（简单记，不会丢）
+- [**Tono**](https://tonote.app) — Your AI assistant. Ask anything, get it done.（你的 AI 助手，有问必答）
 
 <a href='https://play.google.com/store/apps/developer?id=HarlonWang'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width=200 height=77/></a>
 
