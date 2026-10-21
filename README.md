@@ -17,6 +17,11 @@
 
 <!-- -->
 
+- [**chatbase**](https://github.com/HarlonWang/chatbase) — Self-hosted multi-provider AI chat foundation（自托管多模型 AI 聊天底座）
+- [**chatbase-kmp**](https://github.com/HarlonWang/chatbase-kmp) — Compose Multiplatform chat UI and client for chatbase（chatbase 的 Compose 跨平台聊天 UI 与客户端）
+
+<!-- -->
+
 - [**tinyui**](https://github.com/tiny-ui/tinyui) — JS-driven declarative UI for Compose Multiplatform（JS 驱动的 Compose 跨平台声明式 UI）
 - [**tinyui-updates-server**](https://github.com/tiny-ui/tinyui-updates-server) — Self-hosted hot updates for tinyui（tinyui 的自托管热更新服务）
 
